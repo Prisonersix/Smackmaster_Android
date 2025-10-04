@@ -1,0 +1,9 @@
+<resources>
+    <color name="premium_neon_yellow">#FFD400</color>
+    <color name="premium_crimson_red">#D0021B</color>
+    <color name="premium_neon_green">#39FF14</color>
+    <color name="premium_deep_black">#0B0B0B</color>
+    <color name="premium_text_white">#FFFFFF</color>
+    <color name="premium_subtext_gray">#D0D0D0</color>
+    <color name="premium_blue_outline">#3A8DFF</color>
+</resources>
